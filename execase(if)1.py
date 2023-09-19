@@ -18,7 +18,8 @@
 
 #O valor do imposto, usando as regras a seguir.
 
-#O produto que preencher pelo menos um dos seguintes requisitos pagará imposto equivalente a 5% do preço; caso contrário, pagará 8%. Os requisitos são:
+#O produto que preencher pelo menos um dos seguintes requisitos pagará imposto equivalente a 5% do preço; caso contrário,
+#pagará 8%. Os requisitos são:
 #Categoria: 2
 #Situação: R
 
