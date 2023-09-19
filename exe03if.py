@@ -2,7 +2,8 @@
 # DEV: JORGE AUGUSTO
 # DATA: 29/08/2022
 
-#Faça um programa que receba a idade de um nadador e mostre sua categoria, usando as regras a seguir. Para idade inferior a 5, qual mensagem deveríamos mostrar?
+#Faça um programa que receba a idade de um nadador e mostre sua categoria, 
+#usando as regras a seguir. Para idade inferior a 5, qual mensagem deveríamos mostrar?
 
 #                      CATEGORIA                     IDADE
 #                      INFANTIL                       5 A 7
