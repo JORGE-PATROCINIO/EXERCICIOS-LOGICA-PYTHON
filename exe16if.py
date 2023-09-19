@@ -4,8 +4,6 @@
 
 #Escreva um programa para ler 3 valores inteiros e escrever o maior deles. Considere que o usuário não informará valores iguais.
 
-
-
 n1=int(input("Digite o primeiro número: "))
 n2=int(input("Digite o segundo número: "))
 n3=int(input("Digite o terceiro número: "))
