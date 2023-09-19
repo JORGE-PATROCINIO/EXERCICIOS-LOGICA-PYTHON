@@ -2,6 +2,23 @@
 # DEV: JORGE AUGUSTO
 # DATA: 19/09/2022
 
+#Faça um programa que receba:
+
+#O código do produto comprado; e
+#A quantidade comprada do produto.
+#Calcule e mostre:
+
+#O preço unitário do produto comprado, seguindo a Tabela abaixo;
+#O preço total da nota;
+#O valor do desconto, seguindo a Tabela abaixo e aplicado sobre o preço total da nota; e
+#O preço final da nota depois do desconto.
+
+#   CÓDIGO         PREÇO          PREÇO TOTAL DA NOTA       % DESCONTO
+#   1 A 10           10               ATÉ 250                    %5
+#   11 A 20          15               ENTRE 250 E 500            %10
+#   21 A 30          20               ACIMA DE 500               %15
+#   31 A 40          30                                          
+
 codigo=int(input("Digite o Código do Produto: "))
 quantidade=int(input("Digite a quantidade de Produto: "))
 
