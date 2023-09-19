@@ -1,3 +1,8 @@
+# 3 VALORES EM ORDEM
+# DEV: JORGE AUGUSTO
+# DATA: 29/08/2022
+
+#Escreva um programa para ler 3 valores inteiros (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente.
 n1 = int(input("Entre com o primeiro número: "))
 n2 = int(input("Entre com  o segundo número: "))
 n3 = int(input("Entre com o terceiro número: "))
