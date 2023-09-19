@@ -2,7 +2,8 @@
 # Dev: Jorge Augusto
 # Data: 13/09/2022
 
-#Escreva um programa que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é Acutângulo, Retângulo ou Obtusângulo.
+#Escreva um programa que leia o valor de 3 ângulos de um triângulo e escreva se o triângulo é Acutângulo,
+#Retângulo ou Obtusângulo.
 
 #Sendo que:
 
