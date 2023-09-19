@@ -2,7 +2,8 @@
 # DEV: JORGE AUGUSTO
 # DATA: 05/09/2022
 
-# Faça um programa que receba a idade e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre em qual grupo de risco essa pessoa se encaixa.
+# Faça um programa que receba a idade e o peso de uma pessoa. 
+# De acordo com a tabela a seguir, verifique e mostre em qual grupo de risco essa pessoa se encaixa.
 
 #        IDADE               ATÉ 60KG          ENTRE 60 E 90KG                 ACIMA DE 90KG
 #        <20                    9                     8                              7
